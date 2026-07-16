@@ -1,11 +1,11 @@
 # IT-Sicherheits- und Compliance-Richtlinien
 
-Willkommen im offiziellen Repository für die IT-Security- und Compliance-Richtlinien von **[Unternehmen]**. 
+Willkommen im offiziellen Repository für die IT-Security- und Compliance-Richtlinien. 
 
 In diesem Repository finden Sie grundlegende Richtlinien. Diese Dokumente bilden die Grundlage für ein Information Security Management System (ISMS) und gewährleisten einen sicheren und verantwortungsvollen Umgang mit IT-Systemen, Daten und Netzwerken.
 
 ## Normen und Standards (Stand 2026)
-Unsere Richtlinien werden regelmäßig aktualisiert und basieren auf den neuesten nationalen und internationalen Anforderungen:
+Die Richtlinien werden regelmäßig aktualisiert und basieren auf den neuesten nationalen und internationalen Anforderungen:
 * ISO/IEC 27001:2022 & ISO/IEC 27002:2022
 * NIS2-Richtlinie (EU 2022/2555)
 * Digital Operational Resilience Act (DORA)
